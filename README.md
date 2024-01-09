@@ -1,9 +1,11 @@
 # + [#0 - IOLI-Crackme](https://github.com/sickshark2007/crack-me/tree/main/%230%20-%20IOLI-Crackme) 
 Nivel: ```0.0```</br>
+Resumo: Conhecendo o ambiente..</br>
 (Qualquer ser consegue fazer esse caralho)
 
 # + [#1 - Crack-Me (CSharp)](https://github.com/sickshark2007/crack-me/tree/main/%231%20-%20Crack-Me%20GUI)
 Nivel: ```0.2```</br>
+Resumo: Crackeando um programa com interface</br>
 (Só requer mais ferramentas, porém qualquer ANIMAL com mentalidade do monark consegue)
 
 #
