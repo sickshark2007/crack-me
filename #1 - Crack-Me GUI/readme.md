@@ -28,7 +28,7 @@ private void Home_Load(object sender, EventArgs e)
 ```
 9. Se você não é um zombie sem cabeça ou o Monark irá raciocinar em imediato que se o arquivo `license.key` não existir ele será criado
 10. Ai está meus amigos (não tenho amigos) aonde temos uma brecha de onde caralhos pegar a senha (não seja burro, obviamente estou falando do `licensekey`)
-11. Se tratando de Home.`licensekey` é uma variavel portando dando novamente uma pesquisa no codigo sobre a variavel, veremos o seguinte:
+11. Se tratando de Home.`licensekey` é uma variavel, portando dando novamente uma pesquisa no codigo sobre a variavel, veremos o seguinte:
 ```C
 // Token: 0x04000002 RID: 2
 private static string licensekey = "AVB89-QQRT6-PO34R-0023H-KKL563";
