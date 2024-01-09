@@ -2,7 +2,7 @@
 Nivel: ```0.0```</br>
 (Qualquer ser consegue fazer esse caralho)
 
-# + [#1 - Crack-Me GUI](https://github.com/sickshark2007/crack-me/tree/main/%231%20-%20Crack-Me%20GUI)
+# + [#1 - Crack-Me (CSharp)](https://github.com/sickshark2007/crack-me/tree/main/%231%20-%20Crack-Me%20GUI)
 Nivel: ```0.2```</br>
 (Só requer mais ferramentas, porém qualquer ANIMAL com mentalidade do monark consegue)
 
