@@ -8,6 +8,10 @@ Nivel: ```0.2```</br>
 Resumo: Crackeando um programa com interface</br>
 (Só requer mais ferramentas, porém qualquer ANIMAL com mentalidade do monark consegue)
 
+---
+
+já já vai ter quebra de banco de dados..
+
 #
 > [!IMPORTANT]
 > Estou fazendo isto só, portanto vai demorar para um caralho pra eu postar tudo</br>
